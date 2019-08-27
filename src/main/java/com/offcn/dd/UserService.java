@@ -13,6 +13,6 @@ public interface UserService {
     public User getUser(Long id);
     //更新指定id用户信息
     public void updateUser(Long id,User user);
-    //删除指定id用户
+    //删除指定id用户啦啦啦
     public void deleteUser(Long id);
 }
